@@ -8,7 +8,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "test": "jest --watchAll=false --ci --silent"
+    "test": "jest --watchAll=false --ci --silent --updateSnapshot"
   },
   "jest": {
     "preset": "jest-expo"
